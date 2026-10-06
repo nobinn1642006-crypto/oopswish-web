@@ -273,7 +273,7 @@ button {
 }
 
 .brand-logo {
-  height: 44px;
+  height: 88px;
   width: auto;
   max-width: 140px;
   object-fit: contain;
@@ -2059,8 +2059,8 @@ summary::-webkit-details-marker {
 }
 
 .footer-brand .brand-logo {
-  height: 42px;
-  width: 42px;
+  height: 84px;
+  width: 84px;
   filter: brightness(1.1);
 }
 
