@@ -39,7 +39,7 @@ const SAMPLE_TEMPLATES = [
         tier: "Basic",
         image: "assets/samples/birthday/birthday-01.jpg",
         link: "https://birthday-basic-temp-01.vercel.app/",
-        price: "৳599"
+        price: "৳499"
     },
     {
         id: "birthday-02",
@@ -48,7 +48,7 @@ const SAMPLE_TEMPLATES = [
         tier: "Basic",
         image: "assets/samples/birthday/birthday-02.jpg",
         link: "https://birthday-basic-temp-02.vercel.app/",
-        price: "৳999"
+        price: "৳499"
     },
     {
         id: "birthday-03",
